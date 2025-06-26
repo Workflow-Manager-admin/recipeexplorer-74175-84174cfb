@@ -1,0 +1,5 @@
+{
+  "task_description": "{'description': 'A web application for browsing, searching, and managing recipes.', 'containers': [{'container_name': 'frontend_web', 'platform': 'web', 'framework': 'react', 'description': 'User interface for the recipe app allowing users to browse, search, and view recipes.', 'interfaces': 'Responsive web application accessible via browser.', 'workspace': 'frontend_web_workspace', 'container_root': 'frontend_web_workspace/frontend_web', 'dependencies': [], 'container_type': 'frontend', 'container_details': {'features': ['Browse recipes', 'Search recipes', 'View recipe details', 'Responsive design for mobile and desktop'], 'colors': {'primary': '#388e3c', 'secondary': '#fbc02d', 'accent': '#d32f2f'}, 'theme': 'light', 'layout_description': 'A top navbar with site branding and search bar, content grid displaying recipes, and a footer.', 'style': 'modern and minimalistic'}}], '3rd_party_services': [], 'figma_components': '', 'manifest_path': '/home/kavia/workspace/code-generation/.project_manifest.yaml'}",
+  "tasks": {},
+  "next_task_id": 1
+}
